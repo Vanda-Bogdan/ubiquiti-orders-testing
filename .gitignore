@@ -1,0 +1,20 @@
+# Composer
+/vendor/
+composer.lock
+
+# Результат работы скрипта
+/result.json
+
+# IDE / редакторы
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Логи и временные файлы
+*.log
+*.tmp
